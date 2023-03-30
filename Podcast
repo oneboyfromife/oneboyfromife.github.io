@@ -1,0 +1,57 @@
+<!--=============== Podcast ===============-->
+        <section class="podcast section" id="podcast">
+            <div class="container">
+                <!-- Section title -->
+                <h2 class="section-title padd-15">Podcasts &#128483;</h2>
+                <div class="row">
+                    <!-- podcast item -->
+                    <div class="blog-item padd-15">
+                        <div class="inner">
+                            <div class="thumb">
+                                <a href="#"><span class="category">Tech</span></a>
+                                <a href="#"><img src="./assets/img/1.svg" alt=""></a>
+                            </div>
+                            <div class="details">
+                                <h3 class="title"><a href="#">5 Tips to become successful</a></h3>
+                                <ul class="meta">
+                                    <li>09 February,2021</li>
+                                    <li>Tomi Elenu</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- podcast item -->
+                    <div class="blog-item padd-15">
+                        <div class="inner">
+                            <div class="thumb">
+                                <a href="#"><span class="category">Tutorial</span></a>
+                                <a href="#"><img src="./assets/img/2.svg" alt=""></a>
+                            </div>
+                            <div class="details">
+                                <h3 class="title"><a href="#">Common Misconception About React Native</a></h3>
+                                <ul class="meta">
+                                    <li>07 February,2021</li>
+                                    <li>Jagaban</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- podcast item -->
+                    <div class="blog-item padd-15">
+                        <div class="inner">
+                            <div class="thumb">
+                                <a href="#"><span class="category">Business</span></a>
+                                <a href="#"><img src="./assets/img/1.svg" alt=""></a>
+                            </div>
+                            <div class="details">
+                                <h3 class="title"><a href="#">Things to do when going to bank</a></h3>
+                                <ul class="meta">
+                                    <li>09 February,2021</li>
+                                    <li>Mimi Ajileye</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
